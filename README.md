@@ -4,7 +4,7 @@ I'm a 70 year old, retired and getting back into the programming activity to try
 
 My introduction to github has been cloaked in a large degree of bafflement. What are all these things? pushes and pulls and commits and adds and HEADS and what all? I get the general idea but I am still finding the terminology and the actions quite obscure at present.
 
-This first entry just looks at how you get started assuming you a github account and you are bamboozled by the jargon and the order of github thngs.
+This first entry just looks at how you get started assuming you have a github account and you are bamboozled by the jargon and the order of github thngs.
 
 So these are the steps I took:
 
@@ -26,6 +26,6 @@ So what's the best way (so far) to use github with your software projects?
 
 1. Make a directory/folder which contains your source code.
 2. Create a .gitignore file. This will contain a list of all the file patterns and names that you don't want on github.
-3. BTW: Learn how to use MarkDowm (md files) and yet another syntax. Visit [daring fireball](https://daringfireball.net/projects/markdown/basics) for more info.
+3. BTW: Learn how to use MarkDown (md files) and yet another syntax. Visit [daring fireball](https://daringfireball.net/projects/markdown/basics) for more info.
 
 Later I'm going to add how to actually get started with a project, you know using github locally etc.
