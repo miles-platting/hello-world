@@ -1,4 +1,4 @@
-# hello-world
+## hello-world
 
 I'm a 70 year old, retired and getting back into the programming activity to try to keep my brain ticking. How things have changed over the last 40 years!
 
@@ -26,6 +26,23 @@ So what's the best way (so far) to use github with your software projects?
 
 1. Make a directory/folder which contains your source code.
 2. Create a .gitignore file. This will contain a list of all the file patterns and names that you don't want on github.
-3. BTW: Learn how to use MarkDown (md files) and yet another syntax. Visit [daring fireball](https://daringfireball.net/projects/markdown/basics) for more info.
+3. Learn how to use MarkDown (md files), yet another syntax. Visit [daring fireball](https://daringfireball.net/projects/markdown/basics) for more info.
+4. Get au-fait with Makefiles and make, CMake too if you have the time.
 
-Later I'm going to add how to actually get started with a project, you know using github locally etc.
+Later I'm going to add a how-to-actually-get-started-with-a-project, you know using git locally to manage the project then when it is past the getting-going stage I'll github it. Can github be used as a verb? I'll be githubbing and expect that the project will have been githubbed in due course. 
+
+##Creating a new project
+
+I have a folder called modelling and in there it looks like this:
+
+<pre>
+drwxr-xr-x    7 dev  staff   238  4 May 16:23 .
+drwxr-xr-x+ 188 dev  staff  6392  4 May 13:57 ..
+-rw-r--r--@   1 dev  staff  6148  4 May 13:05 .DS_Store
+drwxr-xr-x    5 dev  staff   170  4 May 16:25 hello-world
+-rw-r--r--    1 dev  staff     0  4 May 13:28 master
+drwxr-xr-x    7 dev  staff   238  4 May 12:48 model-building
+drwxr-xr-x    3 dev  staff   102  4 May 16:25 sqlite-lite
+</pre>
+
+There is a hello-world project, a model-building project and an sqlite-lite project. The latter is a newbie and I will create a git structure in there, add the code etc, test it and finally send it off to github. There's a master file with nothing in it, I guess that is a git artefact. And there's the ubiquitous .DS_Store, another darned artefact of computing. You can hide the buggers but it's not worth the trouble and if you delete them you will probably lose some of the folder viewing properties  or something else useful. Anyway enough of this grumbling, although why the bloody things can't be hidden by default I don't know.
