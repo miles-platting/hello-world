@@ -24,5 +24,5 @@ So what's the best way (so far) to use github with your software projects?
 
 1. Make a directory/folder which contains your source code.
 2. Create a .gitignore file. This will contain a list of all the file patterns and names that you don't want on github.
-3. BTW: Learn how to us MarkDowm (md files)
+3. BTW: Learn how to use MarkDowm (md files) and yet another syntax. Visit [daring fireball](https://daringfireball.net/projects/markdown/basics) for more info.
 
