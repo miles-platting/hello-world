@@ -8,3 +8,6 @@ So these are the steps I took:
 
 git commit -m "README additions step 1"
 
+Quite what that has done I don't know yet. I didn't see anything significant happening so perhaps some background prep has occurred.
+
+ 
