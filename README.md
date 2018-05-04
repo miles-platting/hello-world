@@ -31,7 +31,7 @@ So what's the best way (so far) to use github with your software projects?
 
 Later I'm going to add a how-to-actually-get-started-with-a-project, you know using git locally to manage the project then when it is past the getting-going stage I'll github it. Can github be used as a verb? I'll be githubbing and expect that the project will have been githubbed in due course. 
 
-##Creating a new project
+## Creating a new project
 
 I have a folder called modelling and in there it looks like this:
 
@@ -47,7 +47,7 @@ drwxr-xr-x    3 dev  staff   102  4 May 16:25 sqlite-lite
 
 There is a hello-world project, a model-building project and an sqlite-lite project. The latter is a newbie and I will create a git structure in there, add the code etc, test it and finally send it off to github. There's a master file with nothing in it, I guess that is a git artefact. And there's the ubiquitous .DS_Store, another darned artefact of computing. You can hide the buggers but it's not worth the trouble and if you delete them you will probably lose some of the folder viewing properties  or something else useful. Anyway enough of this grumbling, although why the bloody things can't be hidden by default I don't know.
 
-###The sqlite-lite project
+### The sqlite-lite project
 
 A loose wrapper, if that's the correct term, for working with an sqlite database. You must surely know about Sqlite, the creation of Dr. Richard Hipp, and if don't know you should look it up. Sqlite is written in C and so far as I can tell it can run anywhere and like all thorough-breds it can run on the smell of an oily rag. Sqlite is one of those tools, like a good text editor, that is a mainstay of programming.
 
