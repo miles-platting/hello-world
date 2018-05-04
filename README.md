@@ -20,4 +20,9 @@ then put your user name and password in.
 
 Must get markdown magic symbols sorted.
 
+So what's the best way (so far) to use github with your software projects?
+
+1. Make a directory/folder which contains your source code.
+2. Create a .gitignore file. This will contain a list of all the file patterns and names that you don't want on github.
+3. BTW: Learn how to us MarkDowm (md files)
 
