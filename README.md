@@ -12,10 +12,12 @@ Quite what that has done I don't know yet. I didn't see anything significant hap
 
 It seems that the steps are:
 
-1 - Make the changes to a file duh edit a file
-2 - do the  git commit -m "These a my remarkable changes" -a
-3 - git push
+1. Make the changes to a file duh edit a file
+2. do the  git commit -m "These a my remarkable changes" -a
+3. git push
 
 then put your user name and password in.
+
+Must get markdown magic symbols sorted.
 
 
